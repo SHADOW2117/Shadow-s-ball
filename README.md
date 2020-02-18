@@ -1,2 +1,2 @@
-# Shadow-s-ball
-shadow`s ball  we have to save with mouse and you are going to control the red paddle
+# p5.play-boilerplate
+Boiler plate for p5.play
